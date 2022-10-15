@@ -4,7 +4,7 @@
     min-height: 350px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background-color: #E7FFC2;
 }
 
 #events * {
@@ -31,4 +31,8 @@
     border-width: 2px;
     border-style: dotted;
     padding: 10px;
+}
+
+.div-btn-event {
+    text-align: center;
 }
